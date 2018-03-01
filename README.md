@@ -1,2 +1,8 @@
 # Deep-Learning-playground
-Este repositorio contiene varios de los algoritmos comunmente usados en 'Deep Learning' explicados en detalle y en idioma español. 
+Hola! Soy ingeniero en mecatronica y profesor universitario dedicado al aprendizaje y desarrollo de algoritmos de 'Aprendizaje Automatico' o 'Machine Learning'. Para dicha tarea tuve que migrar mis conocimientos en C y C# al lenguaje de programacion Python, el cual es el lenguaje de programacion cientifico de preferencia en la comunidad dedicada a los 'Algoritmos Inteligentes'.
+
+Python nos permite integrar una increible cantidad de herramientas cientificas para el procesamiento de datos, visualizacion y graficacion, gran variedad de librerias y una comunidad de desarrollo gigantesca alrededor del mundo. Sin embargo, una de la caracteristas mas diferenciadores de Python es su eleccion preferente por parte de la comunidad de investigacion y desarrollo en 'Aprendizaje Automatico' y sus diferentes paradigmas: Aprendizaje Supervisado o Supervised Learning), Aprendizaje No supervisado o Unsupervised Learning) y el Aprendizaje Reforzado o Reinforcement Learning).
+
+Por tales motivos, gran variedad de APIs dedicadas especificamente a la creacion de 'Algoritmos Inteligentes' han sido desarrolladas basadas en el lenguaje Python. Dichas APIs como Tensorflow, pyTorch, Caffe, entre otras, nos permiten utilizar un marco de trabajo comun para la creacion de dichos algoritmos a bajo nivel. Mientras APIs de alto nivel como Keras, utiliza Tensorflow como API de bajo nivel sobre la cual se basa para implementar estos algoritmos con un nivel mucho mas alto de abstraccion.   
+
+Este repositorio contiene varios de los algoritmos comunmente usados en el 'Aprendizaje Automatico' en idioma español. Este es un trabajo en proceso y acaba de iniciar, asi que con el tiempo espero incrementar la cantidad de algoritmos y tutoriales disponibles en este repositorio.
